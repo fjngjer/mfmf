@@ -1,0 +1,6 @@
+owner=252488488065302528
+prefix=Cl
+game=Break | play
+stayinchannel=true
+songinstatus=false
+token=NTkxMTUxOTUzMDAyNzU4MTQ0.XQsnMg.rx8o10JXB6OjTRsvUWP1ERnN6VQ
